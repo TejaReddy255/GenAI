@@ -1,0 +1,34 @@
+Django is full stack frame work
+
+it  has battries
+  -database(sqllite)
+  -admin
+  -tokens
+
+it follows mvt framework
+
+model- model wraps python class  to database tables
+
+template - templates are html files that define the structure and layout  of your pagers
+
+Views the logic of your application they process incoming request and return response 
+
+Views  are nothing but bridge between model and template
+
+virtual enviroment in a python is a isolated environment where we can work with required verision packages
+
+Lets create E-commerece App 
+cart 
+products
+user
+
+project(E-commerece)
+A project is the overall container that holds the settings and configuration for your
+entire project
+How to connect with  database
+
+model BOOK
+
+class book(models.Model):
+title=models.CharField(max_length=100)
+author=models.CharField(max_length=100)

@@ -1,0 +1,37 @@
+one dimentional data vizualization
+rugplots
+boxplots
+histagram
+countplots
+bar chart
+
+Two dimentional data vizualization
+Scatter Plot: Plots two variables against each other to see relationships or patterns.
+Heatmap: Displays data in matrix form with color gradients, useful for visualizing correlation matrices or intensity patterns.
+Line Plot: Can show relationships between two variables over time.
+Contour Plot: Used for showing 3D data projections (on 2D planes).
+Bubble Chart: Like a scatter plot, but with an additional dimension represented by the size of the bubbles.
+
+multiple dimentional data vizualization
+Pair Plot (Scatterplot Matrix):
+
+A pair plot or scatterplot matrix visualizes relationships between multiple numerical variables. It shows scatter plots for each pair of variables, allowing you to see how they interact with one another.
+
+Principal Component Analysis (PCA) Plot:
+
+PCA is a technique used to reduce the dimensionality of data while retaining as much variance as possible. You can use PCA to reduce multivariate data to two or three dimensions for visualization.
+Parallel Coordinates Plot:
+
+This plot allows the visualization of multivariate data where each axis represents one feature, and each line represents a data point. It’s especially useful for comparing high-dimensional data.
+Heatmap with Multiple Variables:
+
+In cases where you have data in a matrix or grid format (such as correlations or similarities), a heatmap is an excellent way to represent multidimensional relationships.
+Bubble Chart:
+
+Similar to scatter plots, but it adds a third dimension by varying the size of the points (bubbles). This is useful when you want to represent three or more dimensions in a 2D plot.
+Radial or Spider (Radar) Chart:
+
+A radar chart can represent multidimensional data where each axis represents one dimension. This is often used in product comparisons or performance metrics.
+3D Scatter Plot:
+
+If you have three dimensions, a 3D scatter plot can be used to plot the data in a three-dimensional space. For more than three dimensions, dimensionality reduction techniques (like PCA) are helpful to bring down the dimensions to 3D.

@@ -1,0 +1,84 @@
+Basic of python 
+
+Identifiers:names of entites 
+    eg:class, variables, fuction
+rules
+  letters lower case 0-9 digits and underscore can be used 
+  keywords cannot be used as Identifiers
+  cannot start with digit 
+  cannot use special symbols like%,$,&,
+
+Keywords:reserved words to define synatax and  structure of  python
+rules 
+  they are case sentive
+  True, False,None,try
+
+indentation:each line  of  code must be indented
+
+suite: lines of  code starting with header line in control statement
+it ends with:
+
+block: lines of code in functions
+snippet: a small portion of code
+
+follow clear consie and compact  coding
+    indentation
+    use blank lines for distiguishing code blocks
+    use # to write comment
+    use triple qoutes to multiple comment """xxx"""
+    use docstring """xxx""" to explain scripts,fuctions and classes
+    for effiecent coding and code reuse use classes
+
+Data type: classification of  data( string,integers, floats and boolean).
+     define the operation of data  and  structure of storing the data
+ 
+
+primitive data type - integer, string, floats boolean
+non primitive types-array, list set, dictionary
+
+control statements: if, elif and else
+
+list compherension- tool used to filtering out and transforming(mapping)
+
+generator : use to generator set of values can be used only ones
+  
+lambda, expression map and zip function
+
+filter is a built in function and also a generator
+    higher order function taking function as a parameter
+    it takes one argument with function it returns true  when condition met
+
+lambda
+ it has no syntax
+ it takes multiple arguments but have only one expression
+ lambda x:x+1
+
+map it is used mapping new value to existing value
+
+
+High order function
+  -lexical scope
+  -map
+  -filter
+  -fold
+  -lambda (Anonymous function)
+
+functions
+  parameters
+    postional arguments # should follow order as postional to keyword
+    keyword arguments
+    mixed arguments
+    default arguments
+
+packing and unpacking
+it helps to work with iterables
+
+dictionary
+
+
+nested function
+
+closure
+   free variables
+
+   
